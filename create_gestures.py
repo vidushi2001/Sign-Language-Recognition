@@ -11,10 +11,10 @@ def get_hand_hist():
 
 def init_create_folder_database():
 	# create the folder and database if not exist
-	if not os.path.exists("C:\\Users\\Dino\\Downloads\\Sign-Language-Interpreter-using-Deep-Learning-master\\Code\\gestures"):
+	if not os.path.exists("C:\\Users\\Dino\\Downloads\\Sign-Language-Recognition\\Code\\gestures"):
 		os.mkdir("gestures")
-	if not os.path.exists("C:\\Users\\Dino\\Downloads\\Sign-Language-Interpreter-using-Deep-Learning-master\\Code\\gesture_db.db"):
-		conn = sqlite3.connect("C:\\Users\\Dino\\Downloads\\Sign-Language-Interpreter-using-Deep-Learning-master\\Code\\gesture_db.db")
+	if not os.path.exists("C:\\Users\\Dino\\Downloads\\Sign-Language-Recognition\\Code\\gesture_db.db"):
+		conn = sqlite3.connect("C:\\Users\\Dino\\Downloads\\Sign-Language-Recognition\\Code\\gesture_db.db")
 		create_table_cmd = "CREATE TABLE gesture ( g_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE, g_name TEXT NOT NULL )"
 		conn.execute(create_table_cmd)
 		conn.commit()

@@ -14,7 +14,7 @@ OpenCV 4.0
 # Badges
 
 # Visuals
-
+WhatsApp Image 2020-10-15 at 18.21.16.jpeg
 # Usage
 This particular model can be used by differently abled to communicate with the ones who don't know sign language and vocalization of the sign language further enhace its usability by visually impared .
 # Authors 

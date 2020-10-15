@@ -75,7 +75,7 @@ def training():
   scores = model.evaluate(val_images, val_labels, verbose=0)
   print("CNN Error : %.2f%%" %(100-scores[1]*100))
   print('MODEL ACCURACY = {}%'.format(scores[1]*100))
-  model.save('cnn_model_keras2.h5')
+  #model.save('cnn_model_keras2.h5')
 
 
 training()

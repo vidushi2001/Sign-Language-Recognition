@@ -14,7 +14,9 @@ OpenCV 4.0
 # Badges
 
 # Visuals
-WhatsApp Image 2020-10-15 at 18.21.16.jpeg
+Gestures used:
+![WhatsApp Image 2020-10-15 at 18 21 16](https://user-images.githubusercontent.com/72665043/96223519-b24ac180-0fab-11eb-903d-928ce4d4e56b.jpeg)
+
 # Usage
 This particular model can be used by differently abled to communicate with the ones who don't know sign language and vocalization of the sign language further enhace its usability by visually impared .
 # Authors 

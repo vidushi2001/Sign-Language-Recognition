@@ -44,7 +44,7 @@ def cnn_model():
   model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
   filepath= "cnn_model_keras2.h5"
   print('\n')
-  checkpoint1 = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
+  checkpoint1 = ModelCheckpoint(filepath, monitor='val_accuracy', verbose=1, save_best_only=True, mode='max')
   callback_list = [checkpoint1]
   print('\n')
 

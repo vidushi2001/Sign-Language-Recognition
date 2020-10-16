@@ -18,6 +18,7 @@ Gestures used:
 ![WhatsApp Image 2020-10-15 at 18 21 16](https://user-images.githubusercontent.com/72665043/96223519-b24ac180-0fab-11eb-903d-928ce4d4e56b.jpeg)
 
 Loading of all the images:
+![load images](https://user-images.githubusercontent.com/72665043/96223818-2ab18280-0fac-11eb-86ab-4ca197f99ea7.gif)
 
 
 # Usage

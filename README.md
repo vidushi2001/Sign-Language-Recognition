@@ -20,6 +20,7 @@ Gestures used:
 Loading of all the images:
 ![load images](https://user-images.githubusercontent.com/72665043/96223818-2ab18280-0fac-11eb-86ab-4ca197f99ea7.gif)
 
+Creating gestures:
 
 # Usage
 This particular model can be used by differently abled to communicate with the ones who don't know sign language and vocalization of the sign language further enhace its usability by visually impared .
